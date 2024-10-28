@@ -4,7 +4,7 @@ A comprehensive Tableau dashboard demonstrating the four key types of data analy
 
 <table>
   <tr><td align="center">Dashboard Screenshot</td></tr>
-  <tr><td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/HomeScreen.jpg" width="150" height="334"/></td></tr>
+  <tr><td><img src="https://github.com/LavKalsi/Tableau-Project-Stock-Market-Analysis/blob/main/Screenshot/Dashboard%20Screenshot.png" width="932" height="425"/></td></tr>
 </table>
 
 ## Features
