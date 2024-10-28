@@ -20,6 +20,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/LavKalsi/Tableau-Project-Stock-Market-Analysis.git
 cd Tableau-Project-Stock-Market-Analysis
+```
 
 ## Data Preparation
 
@@ -27,6 +28,7 @@ Execute the `prediction.py` script to generate predicted stock prices:
 
 ```bash
 python prediction.py
+```
 
 ## Tableau Dashboard
 
