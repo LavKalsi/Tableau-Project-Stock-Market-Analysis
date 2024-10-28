@@ -37,16 +37,7 @@ python prediction.py
 
 ## Tableau Dashboard
 
-Import the generated CSV file into Tableau to display and analyze the predictions.
-
-## Visualizations
-
-Screenshots of descriptive, diagnostic, predictive, and prescriptive dashboards created in Tableau:
-
-![Descriptive Dashboard](path_to_descriptive_dashboard_screenshot)  
-![Diagnostic Dashboard](path_to_diagnostic_dashboard_screenshot)  
-![Predictive Dashboard](path_to_predictive_dashboard_screenshot)  
-![Prescriptive Dashboard](path_to_prescriptive_dashboard_screenshot)  
+Import the generated CSV file into Tableau to display and analyze the predictions. 
 
 ## Built With
 
