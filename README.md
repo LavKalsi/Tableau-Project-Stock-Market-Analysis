@@ -42,3 +42,13 @@ Screenshots of descriptive, diagnostic, predictive, and prescriptive dashboards 
 ![Diagnostic Dashboard](path_to_diagnostic_dashboard_screenshot)  
 ![Predictive Dashboard](path_to_predictive_dashboard_screenshot)  
 ![Prescriptive Dashboard](path_to_prescriptive_dashboard_screenshot)  
+
+## Built With
+
+- **Python** - For data processing and prediction.
+- **Tableau** - For creating dashboards.
+
+## Author
+
+**Lav Kalsi**
+
