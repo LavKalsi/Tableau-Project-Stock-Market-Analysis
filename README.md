@@ -3,7 +3,7 @@
 A comprehensive Tableau dashboard demonstrating the four key types of data analytics: **Descriptive**, **Diagnostic**, **Predictive**, and **Prescriptive**. This project leverages Python for data preprocessing and stock price prediction, offering insights into stock market trends.
 
 <table>
-  <tr>Dashboard Screenshot</tr>
+  <tr><td align="center">Dashboard Screen</td></tr>
   <tr><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/HomeScreen.jpg" width="150" height="334"/></tr>
 </table>
 
